@@ -70,12 +70,7 @@ VITE_API_BASE_URL=http://localhost:5000/api
 
 ---
 
-## 🔧 Backend Setup (NodeJS or Python)
-
-### If Node.js:
-cd backend
-npm install
-npm run dev
+## 🔧 Backend Setup (Python)
 
 ### If Python:
 cd backend
