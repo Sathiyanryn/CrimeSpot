@@ -11,7 +11,7 @@ This monorepo contains both the **frontend** (web UI) and **backend** (APIs, dat
 
 CrimeSpot/
 frontend/        # Web App (React / Vite)
-backend/         # API Server (Node / Python backend)
+backend/         # API Server (Python backend)
 
 ---
 
